@@ -1,0 +1,29 @@
+---
+title: "Ray_Review"
+output: html_document
+---
+
+## Proficiency of Code
+  * All Code provided executed and generated all required output per the assignment
+  * Format of code was delineated per objective with corresponding explanation of purpose
+  * Syntax was concise
+  
+## Data Inspection and Processing
+  * Selection of useful columns along with transposition of maize and teosinte data was performed with concise and purposeful code
+  * merge function used for joining of transposed data sets with snp_sub data set
+  * Both the increasing and decreasing operations were written with numerous lines of logical and concise code
+  * write.table function used to print argument 
+  * This function allows for conversion into a df along with column and row arguments
+  * gsub function concisely written
+  * 40 output files complete and intact
+  
+## Graphical Output
+  * snps per chromosome & distribution syntax exceed in both visual inspection and code syntax
+  * Use of "facet_wrap" function and theme syntax above and beyond
+  * Initializing a string variable to either homozygous or hetorzygous was incredibly simplistic and efficient
+  * Those variables are then easily passed between creating graphs based on homozygous/heterozygous and by group
+  
+## Final Thoughts
+
+Author clearly has detailed understanding of how to manipulate the data to reach the goals of the assignment. All of the code was incredibly well written, in a consistent style, and in a concise direction. Explanation of the purpose of each block of code was straight to the point. For my own personal clarity, a more detailed explanation of the syntax would have useful. My only thought for how this could have been written more efficeitnly was if some of the data processing could have been done with a for loop in order to decrease the redundancy of lines written. Absolutely Great Job.
+
